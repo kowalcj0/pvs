@@ -5,6 +5,7 @@
 *.jtl
 *.swp
 *.zip
+*.png
 0
 .project
 .pydevproject
@@ -22,4 +23,4 @@ pvs
 #gedit
 *.*~
 /flask/*
-/target/*
+target
